@@ -1,0 +1,16 @@
+{
+  "name": "timeword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timeword.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "num-words": "^1.2.2"
+  }
+}
